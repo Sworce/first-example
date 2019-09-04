@@ -1,9 +1,12 @@
-//Kevin Buffardi
+//Tommy Luo
 #include <iostream>
+using std::cout;
+using std::endl;
 
 int main()
 {
-  std::cout<<"Hi."<<std::endl;
+  cout<<"Hi."<<endl;
+  cout << "Hello World" << endl;
 
   return 0;
 }
